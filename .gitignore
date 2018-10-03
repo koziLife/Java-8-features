@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+
+# Mac files
+.DS_Store
+
+# Java build
+bin/*
+*/target/*
+target/*
